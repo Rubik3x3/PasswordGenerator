@@ -1,2 +1,4 @@
-# PasswordGenerator
-Random password generator with Python and Random.
+# Password Generator
+<h4>Description</h4>
+
+A terminal app to generate random passwords with python
