@@ -3,4 +3,4 @@
 
 <h4>Description</h4>
 
-A terminal app to generate random passwords with Python and random.
+A terminal app to generate random passwords with Python 3 and random.
